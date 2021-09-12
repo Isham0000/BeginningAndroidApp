@@ -185,6 +185,6 @@
         app:layout_constraintEnd_toStartOf="@+id/button9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/button7"
-        app:srcCompat="@drawable/google" />
+        app:srcCompat="@drawable/google"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -87,7 +87,7 @@
         android:backgroundTint="@color/white"
         android:clickable="true"
         android:layout_marginTop="15dp"
-        android:src="@drawable/google"
+        android:src="@drawable/facebook"
         app:layout_constraintEnd_toStartOf="@+id/floatingActionButton3"
         app:layout_constraintStart_toStartOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/button"
@@ -104,7 +104,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        app:srcCompat="@drawable/fb"
+        app:srcCompat="@drawable/google"
         app:tint="@null" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -118,7 +118,7 @@
         app:layout_constraintEnd_toEndOf="@+id/button"
         app:layout_constraintStart_toEndOf="@+id/floatingActionButton3"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        app:srcCompat="@drawable/logo"
+        app:srcCompat="@drawable/icloud"
         app:maxImageSize="40dp"/>
 
 

@@ -5,11 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19739583333333333" />
         <entry key="app/src/main/res/drawable/ic_24.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/drawable/ic_lock.xml" value="0.19739583333333333" />
         <entry key="app/src/main/res/drawable/ic_mail.xml" value="0.19739583333333333" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18125" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.17617753623188406" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="app/src/main/res/layout/register.xml" value="0.19117596143886972" />
+        <entry key="app/src/main/res/menu/menu_home.xml" value="0.21770833333333334" />
       </map>
     </option>
   </component>

@@ -21,8 +21,8 @@ class LoginActivity : AppCompatActivity() {
         val btnForgetPass : TextView = findViewById(R.id.forgot_password)
         val radioRemember : RadioButton = findViewById(R.id.rememberme)
 
-        dataEmail = arrayOf("khalish","tianto","wiriadinata")
-        dataPassword = arrayOf("1234", "4321", "1423")
+        dataEmail = arrayOf("Isham","Hidayatullah")
+        dataPassword = arrayOf("1234", "4321", "1432")
 
         btnLogin.setOnClickListener{
             signIn(edtEmail.text.toString(), edtPassword.text.toString())

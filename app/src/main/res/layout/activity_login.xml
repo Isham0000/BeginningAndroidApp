@@ -92,7 +92,7 @@
                 android:layout_weight="1"
                 android:textColor="@color/black"
                 android:textStyle="italic"
-                android:text="Forget Password"/>
+                android:text="Forgot Password"/>
             <RadioButton
                 android:id="@+id/rememberme"
                 android:layout_width="match_parent"
